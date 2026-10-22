@@ -16,16 +16,38 @@
   Pune, India
 </p>
 
-<br />
+## Overview
 
-I build TypeScript backends with **Express** and **Hono**, and the **Next.js** apps that sit on top of them. Six months shipping SaaS at **Axium Studios** across freight logistics and healthcare, including LLM powered features and agent style workflows.
+I'm **Jyothiranand S.**, a full stack software engineer based in Pune. I focus on TypeScript backends and the Next.js apps that use them: Express and Hono APIs, NestJS services, PostgreSQL data models, and LLM powered product features.
 
-Two full stack products are public with READMEs, demo data, and Docker setup.
+I recently completed a **6 month full stack internship at Axium Studios LLP** (Mar to Sep 2026), shipping SaaS across freight logistics and healthcare. That work covered Next.js interfaces, Express and NestJS APIs, Prisma on PostgreSQL, Docker and Podman for local runs, and AI agent style workflows in a healthcare product.
 
-## Stack
+Outside the internship I build public portfolio products you can clone and run: a freight logistics console (**Ternline**) and an evidence cited health guidance app (**Nora**). Walkthroughs of private client work are available on request.
+
+I'm currently pursuing a **Bachelor of Commerce (B.Com)** and am open to full time backend or full stack roles.
+
+## Background
+
+| | |
+| :--- | :--- |
+| **Role** | Full stack software engineer |
+| **Focus** | TypeScript APIs, Next.js, PostgreSQL, LLM integrations |
+| **Experience** | Full stack intern, Axium Studios LLP (6 months) |
+| **Education** | B.Com (in progress) |
+| **Location** | Pune, India |
+| **Portfolio** | [jyothiranand.com](https://jyothiranand.com) |
+
+### What I worked on at Axium
+
+- End to end SaaS features connecting frontend workflows to TypeScript APIs and relational data
+- Freight logistics: shipment operations and tracking on Next.js, Express, Prisma, PostgreSQL
+- Healthcare AI: React and Next.js on NestJS, with LLM features and agent style workflows
+- Containerized development with Docker and Podman
+
+## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,nestjs,postgres,mysql,prisma,docker,aws,git&perline=7" alt="TypeScript JavaScript Python React Next.js Node Express NestJS PostgreSQL MySQL Prisma Docker AWS Git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,nestjs,postgres,mysql,prisma,docker,aws,git&perline=7" alt="Core stack icons" />
 </p>
 
 <p align="center">
@@ -44,43 +66,16 @@ Two full stack products are public with READMEs, demo data, and Docker setup.
 **AI:** LLM API integrations, agent style workflows  
 **Tools:** Git, Docker, Podman, AWS (foundational)
 
-## Selected work
+## Public work
 
-### [Ternline](https://github.com/Spydero/Freight-SaaS) | freight logistics console
-
-Leads to quotes to approved clients to shipment milestones, kanban, analytics, and public tracking links.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,express,postgres,prisma,docker&perline=6" alt="Ternline stack" />
-</p>
-
-- Modular Express API (auth, leads, quotes, shipments, notifications, admin)
-- Cookie sessions with JWT, bcrypt, and role based access for ops / admin / client
-- pnpm monorepo with shared Zod schemas; Docker Compose for local runs
-
-### [Nora](https://github.com/Spydero/nora) | evidence cited health guidance
-
-Symptom guidance where urgency is rule based; the LLM only drafts language, and every claim stays citeable.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,docker&perline=5" alt="Nora stack" />
-</p>
-
-- Rule based triage; emergencies short circuit before any model call
-- Verifier rejects uncited claims, diagnosis, or dosing language, then falls back to approved templates
-- OpenRouter primary with Gemini fallback; audit trails and CSRF protected auth
-
-### Internship | Axium Studios LLP *(Mar to Sep 2026)*
-
-End to end SaaS features connecting Next.js workflows to TypeScript APIs and relational models. Private client code; walkthroughs available on request.
-
-- Freight logistics SaaS: shipment ops and tracking (Next.js, Express, Prisma, PostgreSQL)
-- Healthcare AI SaaS: product UI on NestJS with LLM and agent style workflows
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| [Ternline](https://github.com/Spydero/Freight-SaaS) | Freight logistics console: leads, quotes, shipments, tracking | <img src="https://skillicons.dev/icons?i=ts,nextjs,express,postgres,prisma,docker" height="28" alt="Ternline stack" /> |
+| [Nora](https://github.com/Spydero/nora) | Evidence cited symptom guidance with safe LLM drafting | <img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,docker" height="28" alt="Nora stack" /> |
 
 ## Contact
 
 - Portfolio: [jyothiranand.com](https://jyothiranand.com)
 - CV: [Jyothiranand_S_CV.pdf](./Jyothiranand_S_CV.pdf)
 - Email: [jyothiranands@gmail.com](mailto:jyothiranands@gmail.com)
-
-Open to full time backend or full stack roles.
+- Phone: +91 83560 31291
