@@ -48,13 +48,6 @@ Rule based urgency with safe LLM drafting, NestJS + Next.js + PostgreSQL. Synthe
 **Axium Studios (internship)** · Private client SaaS  
 Freight logistics and healthcare AI features end to end. Walkthroughs available on request.
 
-### GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Spydero&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spydero&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
-</div>
-
 ### Connect
 
 <div align="center">
