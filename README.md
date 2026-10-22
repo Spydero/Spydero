@@ -1,111 +1,64 @@
-<img src="assets/banner.svg" alt="Jyothiranand S. Full-stack software engineer" width="880" />
-<img src="assets/typing.svg" alt="I ship TypeScript SaaS" width="880" />
+<div align="center">
 
-[Portfolio](https://jyothiranand.com) | [CV](./Jyothiranand_S_CV.pdf) | [Email](mailto:jyothiranands@gmail.com) | Pune, India
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=56&lines=Hi%2C+I'm+Jyothiranand+S.;Full-stack+Software+Engineer;TypeScript+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL)](https://jyothiranand.com)
 
-## Overview
+**Building TypeScript SaaS · APIs · Next.js · LLM workflows**
 
-I'm **Jyothiranand S.**, a full stack engineer in Pune. I build TypeScript backends (Express, Hono, NestJS) and the Next.js apps on top of them, with PostgreSQL/Prisma and LLM powered features.
+[![Portfolio](https://img.shields.io/badge/Portfolio-jyothiranand.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jyothiranand.com)
+[![CV](https://img.shields.io/badge/CV-PDF-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Jyothiranand_S_CV.pdf)
+[![Email](https://img.shields.io/badge/Email-jyothiranands%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyothiranands@gmail.com)
+[![Location](https://img.shields.io/badge/Pune%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](https://jyothiranand.com)
 
-**6 months at Axium Studios LLP** (Mar to Sep 2026): freight logistics and healthcare SaaS end to end. Currently pursuing B.Com. Open to full time backend or full stack roles.
+</div>
 
-## Stack
+### About
 
-<table cellspacing="0" cellpadding="6">
-  <tr>
-    <td width="100"><b>Languages</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" height="36" alt="SQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="36" height="36" alt="Express" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="NestJS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="36" height="36" alt="LLM APIs" />
-      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="ML" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" width="36" height="36" alt="Podman" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44" height="36" alt="AWS" />
-    </td>
-  </tr>
-</table>
+Full stack software engineer based in **Pune**. I ship TypeScript backends with **Express / Hono / NestJS**, **Next.js** product UIs, **PostgreSQL + Prisma**, and **LLM powered** features.
 
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
-<img src="https://img.shields.io/badge/REST-0F172A?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
-<img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs" />
+Recently finished a **6 month internship at Axium Studios LLP** (Mar to Sep 2026) on freight logistics and healthcare SaaS. Currently pursuing **B.Com**. Open to full time backend or full stack roles.
 
-## Public work
+### Tech stack
 
-<table cellspacing="0" cellpadding="6">
-  <tr>
-    <td width="200">
-      <b><a href="https://github.com/Spydero/Freight-SaaS">Ternline</a></b><br />
-      Freight logistics console
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="32" height="32" alt="Express" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="32" height="32" alt="Prisma" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/Spydero/nora">Nora</a></b><br />
-      Evidence cited health guidance
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="32" height="32" alt="NestJS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="32" height="32" alt="LLM" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,nestjs,postgres,mysql,prisma,redis,docker,aws,git,github&perline=8" alt="Tech stack" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/AI%20Agents-14532D?style=flat-square&logo=pytorch&logoColor=white" alt="AI Agents" />
+</div>
 
-## Contact
+### Featured work
 
-[jyothiranand.com](https://jyothiranand.com) | [CV (PDF)](./Jyothiranand_S_CV.pdf) | [jyothiranands@gmail.com](mailto:jyothiranands@gmail.com) | +91 83560 31291
+**[Ternline](https://github.com/Spydero/Freight-SaaS)** · Freight logistics console  
+Leads, quotes, shipments, kanban, analytics, and public tracking. Express API + Next.js + Prisma/PostgreSQL + Docker.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,express,postgres,prisma,docker&perline=6" alt="Ternline stack" />
+</div>
+
+**[Nora](https://github.com/Spydero/nora)** · Evidence cited health guidance  
+Rule based urgency with safe LLM drafting, NestJS + Next.js + PostgreSQL. Synthetic demo content only.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,docker&perline=5" alt="Nora stack" />
+</div>
+
+**Axium Studios (internship)** · Private client SaaS  
+Freight logistics and healthcare AI features end to end. Walkthroughs available on request.
+
+### GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Spydero&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spydero&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
+</div>
+
+### Connect
+
+<div align="center">
+
+[Portfolio](https://jyothiranand.com) · [CV](./Jyothiranand_S_CV.pdf) · [Email](mailto:jyothiranands@gmail.com) · +91 83560 31291
+
+</div>
