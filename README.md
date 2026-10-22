@@ -68,6 +68,5 @@ End-to-end SaaS features connecting Next.js workflows to TypeScript APIs and rel
 - Portfolio: [jyothiranand.com](https://jyothiranand.com)
 - CV: [Jyothiranand_S_CV.pdf](./Jyothiranand_S_CV.pdf)
 - Email: [jyothiranands@gmail.com](mailto:jyothiranands@gmail.com)
-- Phone: +91 83560 31291
 
 Open to full-time backend or full-stack roles.
