@@ -1,57 +1,73 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg" alt="Jyothiranand S." width="900" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=56&lines=Hi%2C+I'm+Jyothiranand+S.;Full-stack+Software+Engineer;TypeScript+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL)](https://jyothiranand.com)
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&height=40&lines=I+build+TypeScript+APIs+with+Express+and+Hono;and+the+Next.js+apps+that+use+them;Open+to+full-time+backend+%2F+full-stack+roles">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&height=40&lines=I+build+TypeScript+APIs+with+Express+and+Hono;and+the+Next.js+apps+that+use+them;Open+to+full-time+backend+%2F+full-stack+roles" alt="Typing tagline" />
+  </a>
+</p>
 
-**Building TypeScript SaaS · APIs · Next.js · LLM workflows**
+<p align="center">
+  <a href="https://jyothiranand.com">Portfolio</a> ·
+  <a href="./Jyothiranand_S_CV.pdf">CV</a> ·
+  <a href="mailto:jyothiranands@gmail.com">Email</a> ·
+  Pune, India
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jyothiranand.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jyothiranand.com)
-[![CV](https://img.shields.io/badge/CV-PDF-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Jyothiranand_S_CV.pdf)
-[![Email](https://img.shields.io/badge/Email-jyothiranands%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyothiranands@gmail.com)
-[![Location](https://img.shields.io/badge/Pune%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](https://jyothiranand.com)
+## About me
 
-</div>
+I'm a full-stack engineer focused on **backend APIs and full-stack delivery**. Most of my work sits in **TypeScript**: Express and Hono services, NestJS when the product needs it, and **Next.js / React** on the frontend, backed by **PostgreSQL** and **Prisma**.
 
-### About
+I spent **six months at Axium Studios LLP** (Mar to Sep 2026) shipping SaaS across **freight logistics** and **healthcare**, including LLM-powered features and agent-style workflows. Outside that, I keep two public products you can clone and run with demo data and Docker: **Ternline** (shipping console) and **Nora** (evidence-cited health guidance).
 
-Full stack software engineer based in **Pune**. I ship TypeScript backends with **Express / Hono / NestJS**, **Next.js** product UIs, **PostgreSQL + Prisma**, and **LLM powered** features.
+I'm based in **Pune**, currently pursuing a **B.Com**, and open to full-time backend or full-stack roles.
 
-Recently finished a **6 month internship at Axium Studios LLP** (Mar to Sep 2026) on freight logistics and healthcare SaaS. Currently pursuing **B.Com**. Open to full time backend or full stack roles.
+## Tech stack
 
-### Tech stack
+**Daily drivers** (what I reach for first)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,nestjs,postgres,mysql,prisma,redis,docker,aws,git,github&perline=8" alt="Tech stack" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
-  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs" />
-  <img src="https://img.shields.io/badge/AI%20Agents-14532D?style=flat-square&logo=pytorch&logoColor=white" alt="AI Agents" />
-</div>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,postgres,prisma,git&perline=8" alt="Daily drivers" />
 
-### Featured work
+**Shipped with** (comfortable on a team codebase)
 
-**[Ternline](https://github.com/Spydero/Freight-SaaS)** · Freight logistics console  
-Leads, quotes, shipments, kanban, analytics, and public tracking. Express API + Next.js + Prisma/PostgreSQL + Docker.
+<img src="https://skillicons.dev/icons?i=nestjs,docker,aws,github,redis&perline=5" alt="Shipped with" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+<img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,express,postgres,prisma,docker&perline=6" alt="Ternline stack" />
-</div>
+**Growing**
 
-**[Nora](https://github.com/Spydero/nora)** · Evidence cited health guidance  
-Rule based urgency with safe LLM drafting, NestJS + Next.js + PostgreSQL. Synthetic demo content only.
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql&perline=3" alt="Growing" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,docker&perline=5" alt="Nora stack" />
-</div>
+## Featured work
 
-**Axium Studios (internship)** · Private client SaaS  
-Freight logistics and healthcare AI features end to end. Walkthroughs available on request.
+### [Ternline](https://github.com/Spydero/Freight-SaaS)
+Logistics console where leads become quotes, clients accept them, and shipments move through milestones, a kanban board, analytics, and public tracking links.
 
-### Connect
+<img src="https://skillicons.dev/icons?i=ts,nextjs,express,postgres,prisma,docker&perline=6" alt="Ternline stack" />
 
-<div align="center">
+- Modular Express + TypeScript API (auth, leads, quotes, shipments, admin)
+- Cookie sessions, JWT, bcrypt, role-based access for ops / admin / client
+- Shared Zod schemas in a pnpm monorepo; Docker Compose for local runs
 
-[Portfolio](https://jyothiranand.com) · [CV](./Jyothiranand_S_CV.pdf) · [Email](mailto:jyothiranands@gmail.com) · +91 83560 31291
+### [Nora](https://github.com/Spydero/nora)
+Symptom-guidance app that helps adults decide how urgently to seek care. Urgency is rule-based; the LLM only drafts language, and every claim stays citeable. Synthetic demo content; not a medical device.
 
-</div>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,docker&perline=5" alt="Nora stack" />
+
+- Rule-based triage; emergencies short-circuit before any model call
+- Verifier rejects uncited claims, diagnosis, or dosing language
+- OpenRouter with Gemini fallback, audit trails, CSRF-protected auth
+
+### Axium Studios LLP (internship)
+Private client work on freight logistics SaaS and healthcare AI SaaS: Next.js workflows on Express/NestJS APIs, Prisma/PostgreSQL, Docker/Podman, and LLM agent-style features. Walkthroughs available on request.
+
+## Contact
+
+Want to talk about a role or a walkthrough? Email is fastest.
+
+**[jyothiranands@gmail.com](mailto:jyothiranands@gmail.com)** · [jyothiranand.com](https://jyothiranand.com) · [CV (PDF)](./Jyothiranand_S_CV.pdf) · +91 83560 31291
