@@ -77,39 +77,42 @@ Currently pursuing a **B.Com**. Open to full-time backend or full-stack roles.
 
 ## Featured work
 
-<table>
-  <tr>
-    <td width="210" align="left" valign="top">
-      <b><a href="https://github.com/Spydero/Freight-SaaS">Ternline</a></b><br />
-      Freight logistics console
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="32" height="32" alt="Express" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="32" height="32" alt="Prisma" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-      <b><a href="https://github.com/Spydero/nora">Nora</a></b><br />
-      Evidence-cited health guidance
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="32" height="32" alt="NestJS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="32" height="32" alt="LLM" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" />
-    </td>
-  </tr>
-</table>
+### [Ternline](https://github.com/Spydero/Freight-SaaS)
+Freight logistics console: leads to quotes to shipments, kanban, analytics, and public tracking.
 
-**Axium Studios LLP (internship):** freight logistics and healthcare AI SaaS end to end. Private client code; walkthroughs on request.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="36" height="36" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+
+<br />
+
+### [Nora](https://github.com/Spydero/nora)
+Evidence-cited health guidance: rule-based urgency, safe LLM drafting. Synthetic demo content only.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="NestJS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="36" height="36" alt="LLM" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+
+<br />
+
+### Axium Studios LLP
+Full-stack internship (Mar to Sep 2026). Freight logistics and healthcare AI SaaS end to end. Private client code; walkthroughs on request.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="36" height="36" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="NestJS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
 
 ## Contact
 
-[jyothiranand.com](https://jyothiranand.com) | [CV (PDF)](./Jyothiranand_S_CV.pdf) | [jyothiranands@gmail.com](mailto:jyothiranands@gmail.com) | +91 83560 31291
+[jyothiranand.com](https://jyothiranand.com) | [CV (PDF)](./Jyothiranand_S_CV.pdf) | [jyothiranands@gmail.com](mailto:jyothiranands@gmail.com)
