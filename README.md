@@ -1,67 +1,81 @@
 <p align="center">
-  <img src="assets/profile.jpg" width="148" alt="Jyothiranand S." />
-</p>
-
-<h1 align="center">Jyothiranand S.</h1>
-
-<p align="center">
-  <strong>Full-stack software engineer</strong><br />
-  TypeScript · Next.js · Express / NestJS · PostgreSQL · LLM integrations
+  <img src="assets/banner.svg" alt="Jyothiranand S. Full-stack software engineer" width="880" />
 </p>
 
 <p align="center">
-  Pune, India ·
-  <a href="https://jyothiranand.com">jyothiranand.com</a> ·
-  <a href="mailto:jyothiranands@gmail.com">Email</a> ·
-  <a href="./Jyothiranand_S_CV.pdf">CV (PDF)</a>
+  <img src="assets/typing.svg" alt="I ship TypeScript SaaS" width="720" />
+</p>
+
+<p align="center">
+  <a href="https://jyothiranand.com">Portfolio</a>
+  &nbsp;|&nbsp;
+  <a href="./Jyothiranand_S_CV.pdf">CV</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:jyothiranands@gmail.com">Email</a>
+  &nbsp;|&nbsp;
+  Pune, India
 </p>
 
 <br />
 
-I build TypeScript backends with Express and Hono, and the Next.js apps that sit on top of them. Six months shipping SaaS at **Axium Studios** across freight logistics and healthcare, including LLM-powered features and agent-style workflows.
+I build TypeScript backends with **Express** and **Hono**, and the **Next.js** apps that sit on top of them. Six months shipping SaaS at **Axium Studios** across freight logistics and healthcare, including LLM powered features and agent style workflows.
 
-Two full-stack products are public with READMEs, demo data, and Docker setup.
+Two full stack products are public with READMEs, demo data, and Docker setup.
 
-## Skills
+## Stack
 
-| | |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, SQL |
-| **Frontend** | Next.js, React |
-| **Backend** | Express, NestJS, Node.js, Hono, REST APIs |
-| **Data** | PostgreSQL, MySQL, Prisma |
-| **AI** | LLM API integrations, agent-style workflows |
-| **Tools** | Git, Docker, Podman, AWS (foundational) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,nestjs,postgres,mysql,prisma,docker,aws,git&perline=7" alt="TypeScript JavaScript Python React Next.js Node Express NestJS PostgreSQL MySQL Prisma Docker AWS Git" />
+</p>
 
-**Daily drivers:** Express · Hono · TypeScript · PostgreSQL · Prisma · Next.js · React  
-**Also shipped with:** NestJS · Docker · Zod · JWT auth · LLM APIs  
-**Growing:** Python · FastAPI · MySQL · AWS
+<p align="center">
+  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/LLM_APIs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/AI_Agents-14532D?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+</p>
+
+**Languages:** TypeScript, JavaScript, Python, SQL  
+**Frontend:** Next.js, React  
+**Backend:** Express, NestJS, Node.js, Hono, REST APIs  
+**Data:** PostgreSQL, MySQL, Prisma  
+**AI:** LLM API integrations, agent style workflows  
+**Tools:** Git, Docker, Podman, AWS (foundational)
 
 ## Selected work
 
-### [Ternline](https://github.com/Spydero/Freight-SaaS) · freight logistics console
-Leads → quotes → approved clients → shipment milestones, kanban, analytics, and public tracking links.
+### [Ternline](https://github.com/Spydero/Freight-SaaS) | freight logistics console
 
-`Express` `TypeScript` `Next.js` `Prisma` `PostgreSQL` `Zod` `Docker`
+Leads to quotes to approved clients to shipment milestones, kanban, analytics, and public tracking links.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,express,postgres,prisma,docker&perline=6" alt="Ternline stack" />
+</p>
 
 - Modular Express API (auth, leads, quotes, shipments, notifications, admin)
-- Cookie sessions with JWT, bcrypt, and role-based access for ops / admin / client
+- Cookie sessions with JWT, bcrypt, and role based access for ops / admin / client
 - pnpm monorepo with shared Zod schemas; Docker Compose for local runs
 
-### [Nora](https://github.com/Spydero/nora) · evidence-cited health guidance
-Symptom guidance where urgency is rule-based; the LLM only drafts language, and every claim stays citeable.
+### [Nora](https://github.com/Spydero/nora) | evidence cited health guidance
 
-`NestJS` `Next.js` `TypeScript` `LangGraph.js` `PostgreSQL` `pgvector` `Docker`
+Symptom guidance where urgency is rule based; the LLM only drafts language, and every claim stays citeable.
 
-- Rule-based triage; emergencies short-circuit before any model call
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,docker&perline=5" alt="Nora stack" />
+</p>
+
+- Rule based triage; emergencies short circuit before any model call
 - Verifier rejects uncited claims, diagnosis, or dosing language, then falls back to approved templates
-- OpenRouter primary with Gemini fallback; audit trails and CSRF-protected auth
+- OpenRouter primary with Gemini fallback; audit trails and CSRF protected auth
 
-### Internship · Axium Studios LLP *(Mar–Sep 2026)*
-End-to-end SaaS features connecting Next.js workflows to TypeScript APIs and relational models. Private client code; walkthroughs available on request.
+### Internship | Axium Studios LLP *(Mar to Sep 2026)*
+
+End to end SaaS features connecting Next.js workflows to TypeScript APIs and relational models. Private client code; walkthroughs available on request.
 
 - Freight logistics SaaS: shipment ops and tracking (Next.js, Express, Prisma, PostgreSQL)
-- Healthcare AI SaaS: product UI on NestJS with LLM and agent-style workflows
+- Healthcare AI SaaS: product UI on NestJS with LLM and agent style workflows
 
 ## Contact
 
@@ -69,4 +83,4 @@ End-to-end SaaS features connecting Next.js workflows to TypeScript APIs and rel
 - CV: [Jyothiranand_S_CV.pdf](./Jyothiranand_S_CV.pdf)
 - Email: [jyothiranands@gmail.com](mailto:jyothiranands@gmail.com)
 
-Open to full-time backend or full-stack roles.
+Open to full time backend or full stack roles.
