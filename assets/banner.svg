@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-label="Jyothiranand S. Full-stack software engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220">
+        <animate attributeName="stop-color" values="#0b1220;#101a2e;#0b1220" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#12263f">
+        <animate attributeName="stop-color" values="#12263f;#1a3a55;#12263f" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0e1c2f">
+        <animate attributeName="stop-color" values="#0e1c2f;#163048;#0e1c2f" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#34d399"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card">
+      <rect x="0" y="0" width="880" height="220" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="880" height="220" fill="url(#bg)"/>
+
+    <circle cx="760" cy="40" r="90" fill="url(#glow)">
+      <animate attributeName="cx" values="760;740;760" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;0.85;0.55" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="190" r="70" fill="#22d3ee" opacity="0.08">
+      <animate attributeName="r" values="60;80;60" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- grid dots -->
+    <g fill="#94a3b8" opacity="0.18">
+      <circle cx="48" cy="48" r="1.2"/>
+      <circle cx="72" cy="48" r="1.2"/>
+      <circle cx="96" cy="48" r="1.2"/>
+      <circle cx="48" cy="72" r="1.2"/>
+      <circle cx="72" cy="72" r="1.2"/>
+      <circle cx="96" cy="72" r="1.2"/>
+      <circle cx="48" cy="96" r="1.2"/>
+      <circle cx="72" cy="96" r="1.2"/>
+      <circle cx="96" cy="96" r="1.2"/>
+    </g>
+
+    <text x="48" y="78" fill="#e2e8f0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="38" font-weight="700">
+      Jyothiranand S.
+    </text>
+
+    <!-- typing cursor line -->
+    <rect x="48" y="98" width="220" height="3" rx="2" fill="url(#accent)">
+      <animate attributeName="width" values="40;260;40" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="48" y="140" fill="#94a3b8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18">
+      <tspan id="role">Full-stack software engineer</tspan>
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="48" y="172" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">
+      TypeScript  |  Next.js  |  NestJS  |  PostgreSQL  |  AI
+    </text>
+
+    <g transform="translate(700 150)">
+      <rect width="132" height="36" rx="18" fill="#0ea5e9" opacity="0.15" stroke="#38bdf8" stroke-width="1"/>
+      <text x="66" y="23" text-anchor="middle" fill="#7dd3fc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="600">
+        Open to roles
+      </text>
+      <animateTransform attributeName="transform" type="translate" values="700 150;700 146;700 150" dur="2.4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
